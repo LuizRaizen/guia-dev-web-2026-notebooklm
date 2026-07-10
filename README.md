@@ -33,25 +33,6 @@ O objetivo não foi apenas produzir um resumo do conteúdo, mas também aprender
 
 ---
 
-# 📂 Estrutura do Projeto
-
-```
-📦 projeto
- ┣ 📜 README.md
- ┣ 📂 fontes
- ┃ ┣ artigo-01.pdf
- ┃ ┣ artigo-02.pdf
- ┃ ┗ ...
- ┣ 📂 prompts
- ┃ ┣ prompts.md
- ┃ ┗ troubleshooting.md
- ┣ 📂 guia-estudo
- ┃ ┣ resumo.md
- ┃ ┣ glossario.md
- ┃ ┗ prompts-reutilizaveis.md
- ┗ 📂 imagens
-```
-
 ---
 
 # 📚 Curadoria de Fontes
