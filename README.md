@@ -16,7 +16,7 @@
 
 Este repositório reúne o desenvolvimento de um **Caderno Temático** construído com o **NotebookLM**, utilizando técnicas de curadoria de conteúdo, engenharia de prompts e inteligência artificial para aprofundar o estudo sobre:
 
-> **Tema:** <Nome do tema escolhido>
+> **Tema:** Desenvolvimento Web 2026
 
 O objetivo não foi apenas produzir um resumo do conteúdo, mas também aprender a utilizar uma IA como ferramenta de pesquisa, organização de conhecimento e apoio aos estudos.
 
@@ -60,7 +60,7 @@ As seguintes fontes abertas foram utilizadas como base para alimentar o Notebook
 
 | Fonte | Tipo | Link |
 |---------|------|------|
-| Fonte 1 | PDF | https://... |
+| Fonte 1 | Pesquisa | [https://...](https://www.shumaker.com/insight/analysis-of-new-cyber-threats-artificial-intelligence-ai%E2%80%91driven-risks-accelerating-in-2026/) |
 | Fonte 2 | Artigo | https://... |
 | Fonte 3 | Documentação | https://... |
 | Fonte 4 | Livro/Open Source | https://... |
