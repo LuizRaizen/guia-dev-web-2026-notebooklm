@@ -70,8 +70,8 @@ Assuma que meu objetivo é me tornar um desenvolvedor web moderno, altamente qua
 
 ### Resultado
 
-- ✔ Pontos positivos: A resposta apresenta uma trilha de estudos bem estruturada, com progressão por módulos, projetos práticos e comparações entre tecnologias. Também incorpora tendências atuais, como IA, arquitetura de software e segurança, incentivando uma visão de engenharia de software além do aprendizado de linguagens.
-- ❌ Limitações encontradas: Embora organizada, a resposta funciona mais como um roadmap do que como um curso completo, pois faltam explicações aprofundadas, exemplos, exercícios e critérios de avaliação. Além disso, prioriza alguns temas avançados antes de consolidar fundamentos essenciais, o que pode gerar lacunas na formação.
+- ✔ **Pontos positivos:** A resposta apresenta uma trilha de estudos bem estruturada, com progressão por módulos, projetos práticos e comparações entre tecnologias. Também incorpora tendências atuais, como IA, arquitetura de software e segurança, incentivando uma visão de engenharia de software além do aprendizado de linguagens.
+- ❌ **Limitações encontradas:** Embora organizada, a resposta funciona mais como um roadmap do que como um curso completo, pois faltam explicações aprofundadas, exemplos, exercícios e critérios de avaliação. Além disso, prioriza alguns temas avançados antes de consolidar fundamentos essenciais, o que pode gerar lacunas na formação.
 
 ---
 
@@ -112,9 +112,9 @@ Meu objetivo é sair deste curso preparado para atuar profissionalmente como Des
 
 ### Melhorias obtidas
 
-- ✔ Respostas mais detalhadas: As explicações são mais completas, abordando os temas com maior profundidade e fornecendo mais contexto para o aprendizado.
-- ✔ Maior contextualização: Os conteúdos são apresentados dentro do contexto do mercado e das tendências atuais, facilitando a compreensão da relevância de cada assunto.
-- ✔ Melhor organização das informações: O conteúdo é distribuído de forma lógica e bem estruturada, tornando a leitura mais clara e a progressão do aprendizado mais natural.
+- ✔ **Respostas mais detalhadas:** As explicações são mais completas, abordando os temas com maior profundidade e fornecendo mais contexto para o aprendizado.
+- ✔ **Maior contextualização:** Os conteúdos são apresentados dentro do contexto do mercado e das tendências atuais, facilitando a compreensão da relevância de cada assunto.
+- ✔ **Melhor organização das informações:** O conteúdo é distribuído de forma lógica e bem estruturada, tornando a leitura mais clara e a progressão do aprendizado mais natural.
 
 ---
 
@@ -272,11 +272,11 @@ Durante todo o curso, mantenha o contexto das aulas anteriores, acompanhando meu
 
 ### Melhorias obtidas
 
-- ✔ Curso realmente completo: O conteúdo é estruturado como um curso de verdade, com aulas, teoria, prática, exercícios, avaliações e progressão por módulos, em vez de apenas um roteiro de estudos.
-- ✔ Aprendizado progressivo: Os assuntos são apresentados em uma sequência lógica, consolidando os fundamentos antes de avançar para tópicos mais complexos.
-- ✔ Avaliação rigorosa: Cada módulo possui provas, projetos e critérios claros de aprovação, garantindo que o aprendizado seja validado antes do avanço.
-- ✔ Maior aprofundamento: Os conceitos são explicados em profundidade, com demonstrações, exemplos comentados, comparações e boas práticas do mercado.
-- ✔ Certificação simbólica: Ao concluir todos os módulos, o curso gera um certificado simbólico personalizado e um prompt para criar sua versão em imagem.
+- ✔ **Curso realmente completo:** O conteúdo é estruturado como um curso de verdade, com aulas, teoria, prática, exercícios, avaliações e progressão por módulos, em vez de apenas um roteiro de estudos.
+- ✔ **Aprendizado progressivo:** Os assuntos são apresentados em uma sequência lógica, consolidando os fundamentos antes de avançar para tópicos mais complexos.
+- ✔ **Avaliação rigorosa:** Cada módulo possui provas, projetos e critérios claros de aprovação, garantindo que o aprendizado seja validado antes do avanço.
+- ✔ **Maior aprofundamento:** Os conceitos são explicados em profundidade, com demonstrações, exemplos comentados, comparações e boas práticas do mercado.
+- ✔ **Certificação simbólica:** Ao concluir todos os módulos, o curso gera um certificado simbólico personalizado e um prompt para criar sua versão em imagem.
 
 ---
 ---
